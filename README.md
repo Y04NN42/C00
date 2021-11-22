@@ -1,5 +1,5 @@
 # C00
-III Exercice 00 : ft_putchar \n
+III Exercice 00 : ft_putchar
 IV Exercice 01 : ft_print_alphabet
 V Exercice 02 : ft_print_reverse_alphabet
 VI Exercice 03 : ft_print_numbers
